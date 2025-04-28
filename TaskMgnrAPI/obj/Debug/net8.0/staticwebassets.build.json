@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "FgHk4whm/hxl1oQC6y/7ydzMOjXRuZXONYtU0ixhyyA=",
+  "Source": "TaskMgnrAPI",
+  "BasePath": "_content/TaskMgnrAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
